@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<h1>
+  Hello I am Tra-Vaughn James
+</h1>
 
 <!--
 **TrayJames/TrayJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
